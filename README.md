@@ -1,0 +1,1 @@
+This repository is for personal practice. It's a hub for repeating various programming tasks or projects in areas that I want to master. Each project is meant to be done, deleted, and re-done until it's second nature.
